@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/yaasshhh20" target="blank"><img src="https://img.shields.io/twitter/follow/yaasshhh20?logo=twitter&style=for-the-badge" alt="yaasshhh20" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/yaasshhh20?tab=repositories](https://github.com/yaasshhh20?tab=repositories)
+
 - 📫 How to reach me **yashkulkarni724@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
